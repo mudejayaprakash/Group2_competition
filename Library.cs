@@ -34,7 +34,7 @@ namespace USF_Library_Competition_Week6
         {
             Console.WriteLine("Books in Library:");
             foreach (var b in _books)
-                Console.WriteLine($"Title: {b.Title}, Author: {b.Author}, Available Copies: {b.AvailableCopies}");
+                Console.WriteLine(b);
             Console.WriteLine();
         }
 
@@ -42,9 +42,8 @@ namespace USF_Library_Competition_Week6
         {
             Console.WriteLine("Patrons in Library:");
             foreach (var p in _patrons)
-                Console.WriteLine($"Name: {p.Name}, ID: {p.ID}");
+                Console.WriteLine(p);
             Console.WriteLine();
         }
     }
 }
-

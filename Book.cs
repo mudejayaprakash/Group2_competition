@@ -22,10 +22,6 @@ namespace USF_Library_Competition_Week6
             AvailableCopies = availableCopies;
         }
 
-        /// <summary>
-        /// Attempts to borrow one copy.
-        /// Returns true if successful; false if none are available.
-        /// </summary>
         public bool BorrowBook()
         {
             if (AvailableCopies <= 0) return false;

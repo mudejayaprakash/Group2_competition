@@ -12,3 +12,4 @@
 /Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.pdb
 /Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.genruntimeconfig.cache
 /Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/ref/Group2_competition.dll
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.sourcelink.json
