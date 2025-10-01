@@ -1,0 +1,14 @@
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/bin/Debug/net9.0/Group2_competition
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/bin/Debug/net9.0/Group2_competition.deps.json
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/bin/Debug/net9.0/Group2_competition.runtimeconfig.json
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/bin/Debug/net9.0/Group2_competition.dll
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/bin/Debug/net9.0/Group2_competition.pdb
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.AssemblyInfoInputs.cache
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.AssemblyInfo.cs
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.csproj.CoreCompileInputs.cache
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.dll
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/refint/Group2_competition.dll
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.pdb
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/Group2_competition.genruntimeconfig.cache
+/Users/sanjanakunduru/Desktop/Sem_3/App_Dev/Wk_5/Group2_Competition/Group2_competition/obj/Debug/net9.0/ref/Group2_competition.dll
