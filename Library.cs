@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Group2_competition
+namespace USF_Library_Competition_Week6
 {
     public class Library
     {
@@ -47,3 +47,4 @@ namespace Group2_competition
         }
     }
 }
+
