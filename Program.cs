@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace USF_Library_Competition_Week6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var john = new Person("John Snow", "johnsnow@gmail.com", "LIB12345");
+            Console.WriteLine(john);                   // "Name: John Snow, ID: LIB12345"
+            Console.WriteLine($"Email: {john.Email}"); // "johnsnow@gmail.com"
+        }
+    }
+}
